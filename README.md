@@ -8,7 +8,7 @@ The package processes planar laser scan returns to compute velocity commands for
 
 ## Demonstration
 
-<video src="media/demo_clip.mp4" width="100%" controls autoplay loop muted></video>
+![Autonomous Navigation Demo](media/demo.gif)
 
 - Ubuntu 22.04 LTS / WSL2
 - ROS 2 Humble Hawksbill
