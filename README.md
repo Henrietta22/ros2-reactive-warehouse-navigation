@@ -6,7 +6,9 @@ Autonomous reactive navigation implementation using ROS 2 Humble and Gazebo Clas
 
 The package processes planar laser scan returns to compute velocity commands for collision-free passage through warehouse corridors. The default TurtleBot3 Waffle platform was modified to a 1.5x scale to evaluate navigation performance with wider chassis geometry in constrained passages.
 
-## Environment & Dependencies
+## Demonstration
+
+<video src="media/demo_clip.mp4" width="100%" controls autoplay loop muted></video>
 
 - Ubuntu 22.04 LTS / WSL2
 - ROS 2 Humble Hawksbill
